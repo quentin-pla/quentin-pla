@@ -32,6 +32,7 @@
   > REACT HTML CSS Bootstrap Trello
 
 * [Projet Casino | Mars 2020](https://github.com/quentin-pla/react-gambling-project)
+  ![react-gambling-project](https://user-images.githubusercontent.com/25415408/162903210-dc83f0af-3a5f-42d1-938d-673658e0dfe7.gif)
   > REACT HTML CSS Bootstrap
 
 * [Projet Cook&Burn | Octobre 2018](https://github.com/quentin-pla/work/tree/master/D%C3%A9veloppement%20Web/Dynamique/Site%20web%20dynamique%20-%20Cook%26Burn)
