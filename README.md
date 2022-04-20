@@ -23,6 +23,7 @@
 ## Développement Web
 
 * [Test technique - Développeur Fullstack - iHoover | Avril 2022](https://github.com/quentin-pla/test-technique-ihoover#test-technique---d%C3%A9veloppeur-full-stack---ihoover)
+  ![test-technique-ihoover](https://user-images.githubusercontent.com/25415408/164223169-4e08ca22-fd99-4984-8f95-110fcc4fea36.png)
   > ReactJS HTML CSS Bootstrap JS
 
 * [Site web personnel | Octobre 2020](https://www.quentin-pla.fr)
