@@ -1,5 +1,8 @@
 # Expériences professionnelles
 
+## CDI - Witivio (Marseille, 09/2021 à aujourd'hui) : Réalisation d'applications sur la plateforme Microsoft Teams
+> React JS HTML CSS FluentUI ASP.NET C# AzureDevOps Git GitHub SCRUM CosmosDB
+
 ## CDD - La Provence (Marseille, 07/2019) : Suite du stage.
 > Laravel PHP JS JQuery HTML CSS Bootstrap Trello SCRUM MySQL
 
@@ -18,6 +21,9 @@
 # Projets et réalisations
 
 ## Développement Web
+
+* [Test technique - Développeur Fullstack - iHoover | Avril 2022](https://github.com/quentin-pla/test-technique-ihoover#test-technique---d%C3%A9veloppeur-full-stack---ihoover)
+  > ReactJS HTML CSS Bootstrap JS
 
 * [Site web personnel | Octobre 2020](https://www.quentin-pla.fr)
   > ReactJS HTML CSS Bootstrap JS JQuery
