@@ -35,12 +35,6 @@
 * [Site web personnel | Octobre 2020](https://www.quentin-pla.fr)
   > ReactJS HTML CSS Bootstrap JS JQuery
 
-* [Projet CC7 | Juillet/Septembre 2020](https://www.cc7.company)
-  > ReactJS MongoDB HTML CSS Bootstrap NodeJS JS JQuery
-
-* [Projet Buvette du Lac | Juin/Juillet 2020](https://www.buvettedulac.fr/)
-  > ReactJS MongoDB HTML CSS Bootstrap NodeJS JS JQuery
-
 * [Projet Gestion Bibi Hôtels (Site web) | Avril 2020](https://github.com/quentin-pla/Gestion-Bibi-Hotels)
   > REACT HTML CSS Bootstrap Trello
 
