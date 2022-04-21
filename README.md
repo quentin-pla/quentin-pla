@@ -1,3 +1,7 @@
+<a href="https://quentin-pla.fr">
+  <img width="2000" alt="image" src="https://user-images.githubusercontent.com/25415408/164513104-b3c67d45-2e4d-49b2-9c5d-bbfd0aa56501.jpg">
+</a>
+
 # Expériences professionnelles
 
 ## CDI - Witivio (Marseille, 09/2021 à aujourd'hui) : Réalisation d'applications sur la plateforme Microsoft Teams
