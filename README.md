@@ -23,7 +23,9 @@
 ## Développement Web
 
 * [Test technique - Développeur Fullstack - Aspirateur robot | Avril 2022](https://github.com/quentin-pla/test-technique-aspirateur-robot#test-technique---d%C3%A9veloppeur-full-stack---autovacuum)
-  <img width="1000" alt="image" src="https://user-images.githubusercontent.com/25415408/164508129-0709a9c5-ed8f-4054-a155-d54147854426.png">
+  <a href="https://quentin-pla.github.io/test-technique-aspirateur-robot/" target="_blank">
+    <img width="1000" alt="image" src="https://user-images.githubusercontent.com/25415408/164508129-0709a9c5-ed8f-4054-a155-d54147854426.png">
+  </a>
   > ReactJS HTML CSS Bootstrap JS
 
 * [Site web personnel | Octobre 2020](https://www.quentin-pla.fr)
@@ -39,7 +41,9 @@
   > REACT HTML CSS Bootstrap Trello
 
 * [Projet Casino | Mars 2020](https://github.com/quentin-pla/react-gambling-project)
-  <img width="1000" alt="image" src="https://user-images.githubusercontent.com/25415408/162903210-dc83f0af-3a5f-42d1-938d-673658e0dfe7.gif">
+  <a href="https://nodejs-gambling.herokuapp.com/">
+    <img width="1000" alt="image" src="https://user-images.githubusercontent.com/25415408/162903210-dc83f0af-3a5f-42d1-938d-673658e0dfe7.gif">
+  </a>
   > REACT HTML CSS Bootstrap
 
 * [Projet Cook&Burn | Octobre 2018](https://github.com/quentin-pla/work/tree/master/D%C3%A9veloppement%20Web/Dynamique/Site%20web%20dynamique%20-%20Cook%26Burn)
