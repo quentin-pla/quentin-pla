@@ -4,8 +4,14 @@
 
 # Expériences professionnelles
 
+<img height="50" alt="witivio" src="https://www.salon-intranet.com/logo/7efb633c8de1d45logo-hd_witivio.png"/>
+
 ## CDI - Witivio (Marseille, 09/2021 à aujourd'hui) : Réalisation d'applications sur la plateforme Microsoft Teams
 > React JS HTML CSS FluentUI ASP.NET C# AzureDevOps Git GitHub SCRUM CosmosDB
+ 
+-------------------
+
+<img height="50" alt="laprovence" src="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c5/La_Provence_%28logo%29.svg/1024px-La_Provence_%28logo%29.svg.png"/>
 
 ## CDD - La Provence (Marseille, 07/2019) : Suite du stage.
 > Laravel PHP JS JQuery HTML CSS Bootstrap Trello SCRUM MySQL
@@ -87,6 +93,9 @@
 ## ERDI
 
 * [Présentation de la cyber-attaque de comptes vérifiés Twitter (07/2020) | Décembre 2020](https://github.com/quentin-pla/work/tree/master/ERDI)
+  <a href="https://github.com/quentin-pla/quentin-pla/blob/fe21af6854f1919651e282e5fb1bfb315469ebd8/ERDI/Rapport.pdf">
+    <img height="500" alt="rapport" src="https://user-images.githubusercontent.com/25415408/167712568-fffb86a9-ff4d-43ca-8e0f-da8eaec18733.png">
+  </a>
 
 ## Anglais
 
