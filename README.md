@@ -110,3 +110,6 @@
 ## Design
 
 * [Réalisation de logos et affiches](https://github.com/quentin-pla/work/tree/master/Design)
+<a href="https://github.com/quentin-pla/work/tree/master/Design">
+  <img width="800" alt="image" src="https://user-images.githubusercontent.com/25415408/167838571-86f7be70-46ad-4c01-9ace-09c577544125.png">
+</a>
