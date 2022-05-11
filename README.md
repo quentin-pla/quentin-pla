@@ -1,5 +1,5 @@
 <a href="https://quentin-pla.fr">
-  <img width="2000" alt="image" src="https://user-images.githubusercontent.com/25415408/164513104-b3c67d45-2e4d-49b2-9c5d-bbfd0aa56501.jpg">
+  <img width="2000" alt="image" src="https://user-images.githubusercontent.com/25415408/167787838-de68e4d9-7f61-4130-92b5-cb2829cef392.jpeg">
 </a>
 
 # Expériences professionnelles
