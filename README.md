@@ -34,13 +34,13 @@
 
 * [Test technique - Développeur Front End - Random users | Mai 2022](https://github.com/quentin-pla/test-technique-random-users#test-technique---d%C3%A9veloppeur-front-end---random-users)
   <a href="https://quentin-pla.github.io/test-technique-random-users/" target="_blank">
-    <img width="1510" alt="random users" src="https://user-images.githubusercontent.com/25415408/167792978-adf2dfb5-8653-4d58-a8a2-7ddbc5cabbdc.png">
+    <img width="800" alt="random users" src="https://user-images.githubusercontent.com/25415408/167835580-4af23c73-09e1-4e6f-90dd-665cb25c8bf8.gif">
   </a>
   > ReactJS HTML CSS Bootstrap JS
 
 * [Test technique - Développeur Fullstack - Aspirateur robot | Avril 2022](https://github.com/quentin-pla/test-technique-aspirateur-robot#test-technique---d%C3%A9veloppeur-full-stack---autovacuum)
   <a href="https://quentin-pla.github.io/test-technique-aspirateur-robot/" target="_blank">
-    <img width="1000" alt="aspirateur robot" src="https://user-images.githubusercontent.com/25415408/164508129-0709a9c5-ed8f-4054-a155-d54147854426.png">
+    <img width="800" alt="aspirateur robot" src="https://user-images.githubusercontent.com/25415408/167834909-a839b0d1-aaab-4c93-bceb-7c8044ff3921.gif">
   </a>
   > ReactJS HTML CSS Bootstrap JS
 
@@ -52,7 +52,7 @@
 
 * [Projet Casino | Mars 2020](https://github.com/quentin-pla/react-gambling-project)
   <a href="https://nodejs-gambling.herokuapp.com/">
-    <img width="1000" alt="image" src="https://user-images.githubusercontent.com/25415408/162903210-dc83f0af-3a5f-42d1-938d-673658e0dfe7.gif">
+    <img width="800" alt="image" src="https://user-images.githubusercontent.com/25415408/162903210-dc83f0af-3a5f-42d1-938d-673658e0dfe7.gif">
   </a>
   > REACT HTML CSS Bootstrap
 
