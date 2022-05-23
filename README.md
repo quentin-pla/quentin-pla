@@ -1,6 +1,5 @@
-<a href="https://quentin-pla.fr">
-  <img width="2000" alt="image" src="https://user-images.githubusercontent.com/25415408/167787838-de68e4d9-7f61-4130-92b5-cb2829cef392.jpeg">
-</a>
+![Banner Light Mode](https://user-images.githubusercontent.com/25415408/169887389-26ce779e-f2ab-48bc-b479-e1a73921ebd2.PNG#gh-light-mode-only)
+![Banner Dark Mode](https://user-images.githubusercontent.com/25415408/169887479-7a3b1002-4283-45fd-a4d3-cac6201179b1.PNG#gh-dark-mode-only)
 
 # Expériences professionnelles
 
