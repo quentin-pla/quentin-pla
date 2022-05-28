@@ -4,7 +4,7 @@
 # Expériences professionnelles
 
 <a href="https://www.witivio.com/fr/">
-  <img height="50" alt="witivio" src="https://www.salon-intranet.com/logo/7efb633c8de1d45logo-hd_witivio.png"/>
+  <img height="80" alt="witivio" src="https://user-images.githubusercontent.com/25415408/170817749-dc02b3a5-72e2-4d53-8db5-35c9b9010439.jpeg"/>
 </a>
 
 ## CDI - Witivio (Marseille, 09/2021 à aujourd'hui) : Réalisation d'applications sur la plateforme Microsoft Teams
