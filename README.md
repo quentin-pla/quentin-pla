@@ -3,14 +3,18 @@
 
 # Expériences professionnelles
 
-<img height="50" alt="witivio" src="https://www.salon-intranet.com/logo/7efb633c8de1d45logo-hd_witivio.png"/>
+<a href="https://www.witivio.com/fr/">
+  <img height="50" alt="witivio" src="https://www.salon-intranet.com/logo/7efb633c8de1d45logo-hd_witivio.png"/>
+</a>
 
 ## CDI - Witivio (Marseille, 09/2021 à aujourd'hui) : Réalisation d'applications sur la plateforme Microsoft Teams
 > React JS HTML CSS FluentUI ASP.NET C# AzureDevOps Git GitHub SCRUM CosmosDB
  
 -------------------
 
-<img height="50" alt="laprovence" src="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c5/La_Provence_%28logo%29.svg/1024px-La_Provence_%28logo%29.svg.png"/>
+<a href="https://www.laprovence.com/">
+  <img height="50" alt="laprovence" src="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c5/La_Provence_%28logo%29.svg/1024px-La_Provence_%28logo%29.svg.png"/>
+</a>
 
 ## CDD - La Provence (Marseille, 07/2019) : Suite du stage.
 > Laravel PHP JS JQuery HTML CSS Bootstrap Trello SCRUM MySQL
@@ -32,10 +36,10 @@
 ## Développement Web
 
 * [Test technique - Développeur Front End - Random users | Mai 2022](https://github.com/quentin-pla/test-technique-random-users#test-technique---d%C3%A9veloppeur-front-end---random-users)
-  <a href="https://quentin-pla.github.io/test-technique-random-users/" target="_blank">
-    <img width="800" alt="random users" src="https://user-images.githubusercontent.com/25415408/167835580-4af23c73-09e1-4e6f-90dd-665cb25c8bf8.gif">
-  </a>
-  > ReactJS HTML CSS Bootstrap JS
+<a href="https://quentin-pla.github.io/test-technique-random-users/" target="_blank">
+  <img width="800" alt="random users" src="https://user-images.githubusercontent.com/25415408/167835580-4af23c73-09e1-4e6f-90dd-665cb25c8bf8.gif">
+</a>
+> ReactJS HTML CSS Bootstrap JS
 
 * [Test technique - Développeur Fullstack - Aspirateur robot | Avril 2022](https://github.com/quentin-pla/test-technique-aspirateur-robot#test-technique---d%C3%A9veloppeur-full-stack---autovacuum)
   <a href="https://quentin-pla.github.io/test-technique-aspirateur-robot/" target="_blank">
