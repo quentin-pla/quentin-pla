@@ -1,5 +1,5 @@
-[![Banner Light Mode](https://user-images.githubusercontent.com/25415408/169887389-26ce779e-f2ab-48bc-b479-e1a73921ebd2.PNG)](https://www.linkedin.com/in/quentin-pla/#gh-light-mode-only)
-[![Banner Dark Mode](https://user-images.githubusercontent.com/25415408/169887479-7a3b1002-4283-45fd-a4d3-cac6201179b1.PNG)](https://www.linkedin.com/in/quentin-pla/#gh-dark-mode-only)
+[![Banner Light Mode](https://user-images.githubusercontent.com/25415408/181905531-e0a1ea5c-bd86-446b-bfa5-b565f45ff480.png)](https://www.linkedin.com/in/quentin-pla/#gh-light-mode-only)
+[![Banner Dark Mode](https://user-images.githubusercontent.com/25415408/181905543-9f92c4e0-f22b-4ccd-bfa6-7446f0d501fb.png)](https://www.linkedin.com/in/quentin-pla/#gh-dark-mode-only)
 
 # Expériences professionnelles
 
