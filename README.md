@@ -54,7 +54,7 @@
   > REACT HTML CSS Bootstrap Trello
 
 * [Projet Casino | Mars 2020](https://github.com/quentin-pla/react-gambling-project)
-  <a href="https://nodejs-gambling.herokuapp.com/">
+  <a href="https://github.com/quentin-pla/react-gambling-project">
     <img width="800" alt="image" src="https://user-images.githubusercontent.com/25415408/170817173-0bb1e73f-00af-4496-9f48-0160b99ae9cc.png">
   </a>
   > REACT HTML CSS Bootstrap
