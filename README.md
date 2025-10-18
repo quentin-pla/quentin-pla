@@ -1,6 +1,3 @@
-[![Banner Light Mode](https://user-images.githubusercontent.com/25415408/226197839-6edf5dfb-2241-4dc3-a32e-4dc711bb3b7c.PNG)](https://www.linkedin.com/in/quentin-pla/#gh-light-mode-only)
-[![Banner Dark Mode](https://user-images.githubusercontent.com/25415408/226197885-ea3338e6-b7ea-4523-a894-f5c41af42ecc.PNG)](https://www.linkedin.com/in/quentin-pla/#gh-dark-mode-only)
-
 # Expériences professionnelles
 
 <a href="https://www.witivio.com/fr/">
